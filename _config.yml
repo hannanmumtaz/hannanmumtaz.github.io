@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Author's home: "http://hannanmumtaz.com"
+#Author's home: "http://hannanmumtaz.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,9 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "hannanmumtaz@hotmail.com"
-  #facebook: daattali
+#facebook: daattali
   github: hannanmumtaz
-  #twitter: daattali
+#twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
